@@ -66,10 +66,6 @@ body {
     transition: line-height 0.4s;
 }
 
-#header.on .gnb>ul>li>a {
-    line-height: 10rem;
-    color: var(--BC);
-}
 
 #header .gnb>ul>li {
     position: relative;
