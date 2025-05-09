@@ -30,6 +30,8 @@ body {
 
 #header.on {
     background: var(--WC);
+        border-bottom: 1px solid var(--LC);
+
 }
 
 #header .hd_wrap {
