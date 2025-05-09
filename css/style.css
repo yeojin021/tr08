@@ -77,6 +77,11 @@ body {
 
 
 
+#header.on .gnb>ul>li>a {
+    line-height: 8rem;
+    color: var(--body-color);
+}
+
 
 #header .gnb>ul>li ul {
     position: absolute;
